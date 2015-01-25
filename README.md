@@ -3,7 +3,7 @@ Finding "Mutual Friends" with MapReduce / Hadoop
 
 A quick implementation of a very simple mutual friends algorithm using Hadoop MapReduce.
 
-Please refer to my blog post for more information about the algorithm:
+Please refer to my blog post for more information about the algorithm: http://www.michael-goettsche.de/?p=64
 
 
 ### Setup
